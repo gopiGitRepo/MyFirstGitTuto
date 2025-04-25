@@ -6,6 +6,8 @@ import java.util.List;
 public class Arrays {
 
 	public static void main(String[] args) {
+		
+		//Initialize the array 
 		int[] arr = {2, 4, 1, 5, 7};
 		// Output: max = 7, min = 1
 		List<Integer> list = new ArrayList<>();

@@ -6,6 +6,7 @@ public class AnagramCheck {
         String str1 = "anagramm";
         String str2 = "marganaa";
 
+        //Checking the Anagrams
         boolean isAnagram = areAnagrams(str1, str2);
 
         if (isAnagram) {

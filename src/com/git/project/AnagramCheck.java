@@ -1,4 +1,4 @@
-package interview_string;
+package com.git.project;
 import java.util.stream.Collectors;
 
 public class AnagramCheck {
